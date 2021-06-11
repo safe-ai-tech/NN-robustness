@@ -8,9 +8,15 @@ The development of autonomous vehicles is proceeding rapidly and promises safer 
 If you use this report in your research, cite it as follows:
 
 @misc{safetyandsecurityreport,
+
     author = {Taylor,Robert and Zhang,Jin and Kozin,Igor and Li,Jingyue},
+    
     title                = {{Safety And Security Analysis for Autonomous Vehicles}},
+    
     howpublished = "\url{https://github.com/safe-ai-tech/Reports_Papers}",
+    
     year = {2021},
+    
     note = "[Technical report]"
+    
 }
